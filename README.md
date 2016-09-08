@@ -16,3 +16,5 @@ The final Output was:
 2. A comparison of these factors to determine how they vary across the 5 stores.
 
 The dataset consisted of aggregated sales data on all five stores from September 1 2011 to March 16 2013.
+
+The tool used was SAS Enterprise Miner.
