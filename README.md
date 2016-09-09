@@ -6,7 +6,7 @@ Each store sells the same brands and items. As per guesstimates, roughly 95% of 
 Even though the stores bear the name of the same company, they are effectively competitors due to their close proximity to each 
 other. 
 
-The franchisee of Store B, Mr. Choe, is interested in identifying the factors that affect sales in his store and the extent to 
+The franchisee of Store B, is interested in identifying the factors that affect sales in his store and the extent to 
 which these factors affect sales. He is also interested in identifying the similarities and dissimilarities of these impact factors across the five stores.
 
 The final Output was:
